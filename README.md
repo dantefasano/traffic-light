@@ -54,7 +54,7 @@ After opening the project in your browser, you'll see a traffic light with red, 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
